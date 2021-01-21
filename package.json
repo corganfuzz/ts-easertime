@@ -13,7 +13,7 @@
     "@types/socket.io": "^2.1.2",
     "express": "^4.17.1",
     "natives": "^1.1.6",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
